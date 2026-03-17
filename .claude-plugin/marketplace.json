@@ -1,0 +1,22 @@
+{
+  "name": "kongyo-ts-prettier-setup-skill",
+  "owner": {
+    "name": "kongyo2",
+    "email": ""
+  },
+  "metadata": {
+    "description": "kongyo式のformatterセットアップスキル",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kongyo-ts-prettier-setup-skill",
+      "description": "kongyo式のformatterセットアップスキル",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./kongyo-ts-prettier-setup"
+      ]
+    }
+  ]
+}
